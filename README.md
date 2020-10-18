@@ -13,8 +13,10 @@ https://hungcurry.github.io/Fish-Bootstrap5/day-04/Bootstrap5格線的對齊與�
 5.day-05/Bootstrap5格線排序控制.html
 https://hungcurry.github.io/Fish-Bootstrap5/day-05/Bootstrap5格線排序控制.html
 
-6.day-06/格線距離控制.html day-06/格線距離控制2.html
-https://hungcurry.github.io/Fish-Bootstrap5/day-06/格線距離控制.html day-06/格線距離控制2.html
+6.day-06/格線距離控制.html <br>
+  day-06/格線距離控制2.html  <br>
+https://hungcurry.github.io/Fish-Bootstrap5/day-06/格線距離控制.html  <br>
+https://hungcurry.github.io/Fish-Bootstrap5/day-06/day-06/格線距離控制2.html <br>
 
 7.day-07/圖片與寬高尺寸控制.html
 https://hungcurry.github.io/Fish-Bootstrap5/day-07/圖片與寬高尺寸控制.html
@@ -30,10 +32,10 @@ https://hungcurry.github.io/Fish-Bootstrap5/day-09/卡片組件.html
 
  -------------------------------------------------------------------------------------
 
-11.day-11/清單群組快速入門.html 
-   day-11/清單群組快速入門2.html
-https://hungcurry.github.io/Fish-Bootstrap5/day-11/清單群組快速入門.html 
-https://hungcurry.github.io/Fish-Bootstrap5/day-11/清單群組快速入門2.html
+11.day-11/清單群組快速入門.html  <br>
+   day-11/清單群組快速入門2.html  <br>
+https://hungcurry.github.io/Fish-Bootstrap5/day-11/清單群組快速入門.html  <br>
+https://hungcurry.github.io/Fish-Bootstrap5/day-11/清單群組快速入門2.html  <br>
 
 12.day-12/RWD選單秒完成.html
 https://hungcurry.github.io/Fish-Bootstrap5/day-12/RWD選單秒完成.html
